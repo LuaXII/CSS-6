@@ -21,3 +21,7 @@
 .text-container > p:nth-child(3) {
     font-style: italic;
 }
+
+h3 {
+    font-style: italic;
+}
